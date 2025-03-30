@@ -1,6 +1,7 @@
 # wechat_loader2
 Wechat-Like Loading Loader 2
 
+```html
 <!DOCTYPE html>
 <html>
 <head>
